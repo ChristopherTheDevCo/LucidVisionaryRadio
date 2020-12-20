@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/LucidVisionaryRadio/static/css/main.93b7ebce.chunk.css",
+    "main.js": "/LucidVisionaryRadio/static/js/main.68de5ad6.chunk.js",
+    "main.js.map": "/LucidVisionaryRadio/static/js/main.68de5ad6.chunk.js.map",
+    "runtime-main.js": "/LucidVisionaryRadio/static/js/runtime-main.70dd1ee2.js",
+    "runtime-main.js.map": "/LucidVisionaryRadio/static/js/runtime-main.70dd1ee2.js.map",
+    "static/js/2.b48d98e6.chunk.js": "/LucidVisionaryRadio/static/js/2.b48d98e6.chunk.js",
+    "static/js/2.b48d98e6.chunk.js.map": "/LucidVisionaryRadio/static/js/2.b48d98e6.chunk.js.map",
+    "index.html": "/LucidVisionaryRadio/index.html",
+    "static/css/main.93b7ebce.chunk.css.map": "/LucidVisionaryRadio/static/css/main.93b7ebce.chunk.css.map",
+    "static/js/2.b48d98e6.chunk.js.LICENSE.txt": "/LucidVisionaryRadio/static/js/2.b48d98e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70dd1ee2.js",
+    "static/js/2.b48d98e6.chunk.js",
+    "static/css/main.93b7ebce.chunk.css",
+    "static/js/main.68de5ad6.chunk.js"
+  ]
+}
