@@ -33,7 +33,7 @@ const[songs] = useState([
   {
     title:"Can we talk",
     artist: "Youngin Hall",
-    img_src:"./images/Yart3.jpg",
+    img_src:"./images/Yart3.JPG",
     src: "./music/Cwt.mp3"
   },
 
