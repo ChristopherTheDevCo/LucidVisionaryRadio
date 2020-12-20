@@ -26,7 +26,7 @@ const[songs] = useState([
   {
     title:"Royal Mode",
     artist: "Loonatic",
-    img_src:"./images/LoonArt2.jpg",
+    img_src:"./images/LoonArt2.JPG",
     src: "./music/Royal.mp3"
   },
 
@@ -40,7 +40,7 @@ const[songs] = useState([
   {
     title:"Queens Shit",
     artist: "DNA",
-    img_src:"./images/DnaArt.jpg",
+    img_src:"./images/DnaArt.JPG",
     src: "./music/Qshit.mp3"
   },
 
@@ -54,7 +54,7 @@ const[songs] = useState([
   {
     title:"Venom",
     artist: "Loonatic ft Youngin Hall",
-    img_src:"./images/LoonArt3.jpg",
+    img_src:"./images/LoonArt3.JPG",
     src: "./music/Venom.mp3"
   },
 
@@ -75,7 +75,7 @@ const[songs] = useState([
   {
     title:"MayDay",
     artist: "Loonatic",
-    img_src:"./images/LoonArt2.jpg",
+    img_src:"./images/LoonArt2.JPG",
     src: "./music/MayDay.mp3"
   }
 ]);
