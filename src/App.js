@@ -33,14 +33,14 @@ const[songs] = useState([
   {
     title:"Can we talk",
     artist: "Youngin Hall",
-    img_src:"./images/Yart3.JPG",
+    img_src:"./images/Yart3.jpg",
     src: "./music/Cwt.mp3"
   },
 
   {
     title:"Queens Shit",
     artist: "DNA",
-    img_src:"./images/DnaArt.JPG",
+    img_src:"./images/DnaArt.jpg",
     src: "./music/Qshit.mp3"
   },
 
@@ -54,7 +54,7 @@ const[songs] = useState([
   {
     title:"Venom",
     artist: "Loonatic ft Youngin Hall",
-    img_src:"./images/LoonArt3.JPG",
+    img_src:"./images/LoonArt3.jpg",
     src: "./music/Venom.mp3"
   },
 
@@ -75,7 +75,7 @@ const[songs] = useState([
   {
     title:"MayDay",
     artist: "Loonatic",
-    img_src:"./images/LoonArt2.JPG",
+    img_src:"./images/LoonArt2.jpg",
     src: "./music/MayDay.mp3"
   }
 ]);
