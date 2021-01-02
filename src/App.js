@@ -19,14 +19,14 @@ const[songs] = useState([
   {
     title:"Terrorize",
     artist: "Youngin Hall ft Cooch",
-    img_src:"./images/Yart2.jpg",
+    img_src:"./images/Yart1.jpg",
     src: "./music/Terrorize.mp3"
   },
 
   {
     title:"Royal Mode",
     artist: "Loonatic",
-    img_src:"./images/LoonArt2.jpg",
+    img_src:"./images/LoonArt1.jpg",
     src: "./music/Royal.mp3"
   },
 
@@ -40,7 +40,7 @@ const[songs] = useState([
   {
     title:"Queens Shit",
     artist: "DNA",
-    img_src:"./images/DnaArt.jpg",
+    img_src:"./images/DnaArt2.jpg",
     src: "./music/Qshit.mp3"
   },
 
@@ -54,7 +54,7 @@ const[songs] = useState([
   {
     title:"Venom",
     artist: "Loonatic ft Youngin Hall",
-    img_src:"./images/LoonArt3.jpg",
+    img_src:"./images/LoonArt1.jpg",
     src: "./music/Venom.mp3"
   },
 
