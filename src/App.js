@@ -40,7 +40,7 @@ const[songs] = useState([
   {
     title:"Queens Shit",
     artist: "DNA",
-    img_src:"./images/DnaArt.jpg",
+    img_src:"./images/DnaArt2.jpg",
     src: "./music/Qshit.mp3"
   },
 
